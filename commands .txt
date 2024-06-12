@@ -1,0 +1,5 @@
+#Install docker in MacOS
+brew install docker
+
+#Install docker compose
+bre install docker-compose
